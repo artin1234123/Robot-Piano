@@ -1,3 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/d8951da3-944f-453c-819f-6bc2c07d26c5)
+
+
 # Autonomous Acoustic Piano Player
 
 An ambitious real-world project that transforms a traditional 88-key acoustic piano into a fully automated, intelligent instrument — powered by a Raspberry Pi, ESP microcontroller, and 91 servo motors.
